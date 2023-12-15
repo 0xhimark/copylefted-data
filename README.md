@@ -1,3 +1,3 @@
-## [copylefted.com](https://copylefted.com) data
+## [copylefted.com](https://copylefted.com) collection data
 
-The data for the Ethereum Punks and Milady collections on Copylefted.com is stored in this repository.
+This repository contains collection data for Ethereum Punks and Milady on-chain.
